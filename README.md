@@ -1,2 +1,2 @@
 # pythonAlgorithmDaily
-## 알고리즘 하루에 한개씩
+## Daily solving algorithm problems for Coding test :)
