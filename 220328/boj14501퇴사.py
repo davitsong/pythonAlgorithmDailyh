@@ -18,4 +18,4 @@ for i in range(n-1,-1,-1):
 
 
 #print(ans)
-#print(ans[0])
+print(ans[0])
